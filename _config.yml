@@ -1,3 +1,9 @@
 theme: jekyll-theme-minimal
 title: Serene Scene Events
 description: Creating serene moments for life’s special occasions
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      permalink: /:basename/
